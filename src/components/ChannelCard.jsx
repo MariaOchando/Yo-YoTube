@@ -34,7 +34,6 @@ const ChannelCard = ({ channelDetail }) => (
         )}
       </CardContent>
     </Link>
-
   </Box>
 )
 
